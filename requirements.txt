@@ -1,0 +1,9 @@
+customtkinter
+transformers
+torch
+sentencepiece
+tf-keras
+pandas
+matplotlib
+seaborn
+scikit-learn
